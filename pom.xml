@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>core</groupId>
-    <artifactId>HW_30.</artifactId>
+    <artifactId>HW_30</artifactId>
     <version>1.0</version>
     <dependencies>
         <dependency>
